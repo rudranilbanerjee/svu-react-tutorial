@@ -11,7 +11,7 @@
  * <div>
  */
 
-const main = React.createElement('div',
+const main1 = React.createElement('div',
     {
         id:"parent",
     },
