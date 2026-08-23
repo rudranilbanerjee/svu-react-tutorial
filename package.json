@@ -1,0 +1,30 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "First React Tutotrial",
+  "keywords": [],
+  "homepage": "https://github.com/rudranilbanerjee/svu-react-tutorial#readme",
+  "bugs": {
+    "url": "https://github.com/rudranilbanerjee/svu-react-tutorial/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudranilbanerjee/svu-react-tutorial.git"
+  },
+  "license": "ISC",
+  "author": "Rudranil",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "browserlist":[
+    "last 2 versions"
+  ]
+}
