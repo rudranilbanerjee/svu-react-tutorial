@@ -15,7 +15,10 @@
   "author": "Rudranil",
   "type": "commonjs",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start":"parcel index.html",
+    "dev": "parcel index.html",
+    "build":"parcel build index.html"
   },
   "devDependencies": {
     "parcel": "^2.16.4"
@@ -25,6 +28,6 @@
     "react-dom": "^19.2.8"
   },
   "browserlist":[
-    "last 2 versions"
+    "last 10 versions"
   ]
 }
