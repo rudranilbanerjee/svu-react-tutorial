@@ -113,3 +113,6 @@ App
       React Fiber is collect the props,children, event etc etc of a component. 
 
       swiggy api:- https://www.swiggy.com/dapi/restaurants/list/v5?lat=22.6218264&lng=88.40591169999999&page_type=DESKTOP_WEB_LISTING
+
+      swiggy resturant details api:- 
+      https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=22.6154486&lng=88.40414299999999&restaurantId=573520&catalog_qa=undefined&submitAction=ENTER
